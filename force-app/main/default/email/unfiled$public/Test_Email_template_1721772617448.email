@@ -1,0 +1,14 @@
+<html>
+<head>
+	<title></title>
+</head>
+<body style="height: auto; min-height: auto;">La Oportunidad:&nbsp;{{{Opportunity.Name}}} ha sido creada&nbsp;{{{Recipient.CreatedDate}}}<br />
+<br />
+<br />
+El Monto es {{{Opportunity.Amount}}}<br />
+<br />
+<br />
+{{{Opportunity.Id}}}<br />
+<br />
+--------------------------------------------------------------------------------------------------------------</body>
+</html>
